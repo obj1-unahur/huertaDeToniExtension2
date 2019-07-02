@@ -2,8 +2,8 @@
 
 ## Extensión al modelo
 
-### La pachamama esta choca
-Agregar a la pachamama el método `estaChocha()`, las condiciones para que la pachamama este chocha son las siguientes: 
+### La pachamama esta chocha
+Agregar a la pachamama el método `estaChocha()`, las condiciones para que la pachamama esté chocha son las siguientes: 
 - Debe estar agradecida. 
 - y además, el nivel de agradecimiento debe ser múltiplo de 6.
 
@@ -16,7 +16,7 @@ La nueva planta es una variedad de _maíz_ que se llama _**maíz andino**_ y tie
 
 ### Riego potenciado
 Agregar a todas las plantas el método `riegoPotenciado()`. 
-Cuando a una planta se le aplica el riego potenciado, se la riega, y si la pachamama está agradecida, se la riega de nuevamente.
+Cuando a una planta se le aplica el riego potenciado, se la riega, y si la pachamama está agradecida, se la riega nuevamente.
 
 ### Toni está contento
 Agregar a Toni el método `estaContento()`. Las condiciones para que Toni se encuentre contento son:
